@@ -1,0 +1,6 @@
+c:\users\trongnghia\documents\visual studio 2010\Projects\TracingLoggingAuthorsService\TracingLoggingAuthorsService\bin\Debug\TracingLoggingAuthorsService.dll.config
+c:\users\trongnghia\documents\visual studio 2010\Projects\TracingLoggingAuthorsService\TracingLoggingAuthorsService\bin\Debug\TracingLoggingAuthorsService.dll
+c:\users\trongnghia\documents\visual studio 2010\Projects\TracingLoggingAuthorsService\TracingLoggingAuthorsService\bin\Debug\TracingLoggingAuthorsService.pdb
+c:\users\trongnghia\documents\visual studio 2010\Projects\TracingLoggingAuthorsService\TracingLoggingAuthorsService\obj\Debug\ResolveAssemblyReference.cache
+c:\users\trongnghia\documents\visual studio 2010\Projects\TracingLoggingAuthorsService\TracingLoggingAuthorsService\obj\Debug\TracingLoggingAuthorsService.dll
+c:\users\trongnghia\documents\visual studio 2010\Projects\TracingLoggingAuthorsService\TracingLoggingAuthorsService\obj\Debug\TracingLoggingAuthorsService.pdb
