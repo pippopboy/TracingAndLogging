@@ -1,0 +1,53 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:IAuthors.cs" caret="399" fromTop="5" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:Authors.cs" caret="669" fromTop="20" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:App.config" caret="2868" fromTop="74" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:App.config" caret="3486" fromTop="8" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:App.config" caret="824" fromTop="10" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:IAuthors.cs" caret="479" fromTop="11" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:IAuthors.cs" caret="653" fromTop="19" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:Authors.cs" caret="774" fromTop="17" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:Authors.cs" caret="658" fromTop="17" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:App.config" caret="1800" fromTop="9" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:App.config" caret="2135" fromTop="19" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:App.config" caret="2528" fromTop="20" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:Authors.cs" caret="178" fromTop="6" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:Authors.cs" caret="491" fromTop="15" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:App.config" caret="2655" fromTop="14" />
+      <File id="7E418353-2C7C-4D30-A844-45314FD8C004/f:App.config" caret="2481" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Threading" priority="0" />
+      <Item value="Thread`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
